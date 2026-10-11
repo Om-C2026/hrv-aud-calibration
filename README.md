@@ -107,7 +107,7 @@ hrv-aud-calibration/
 | Dataset | Source | Access |
 |---------|--------|--------|
 | WESAD (ECG) | Schmidt et al. 2018 | https://ubicomp.eti.uni-siegen.de/home/datasets/icmi18/ |
-| Ambulatory HR (Empatica + Fitbit) | This study, n=1 | Zenodo (DOI pending) |
+| Ambulatory HR (Empatica + Fitbit) | This study, n=1 | Available on request from the corresponding author |
 
 ## Important Notes
 
@@ -128,7 +128,7 @@ hrv-aud-calibration/
 
 ## Methodology
 
-Initial Python code was written by the lead author and refined using ChatGPT (GPT-4). LOSO cross-validation correction and manuscript preparation used Claude (Anthropic, claude-opus-4-6). The methodology is described in a companion paper under review at Bioinformatics Advances (BIOADV-2026-626).
+Initial Python code was written by the lead author and refined using ChatGPT (GPT-4). LOSO cross-validation correction and manuscript preparation used Claude (Anthropic, claude-opus-4-6). The methodology is described in a companion paper (Chhaya, O., 2026; under review at PLOS ONE, PONE-D-26-50696).
 
 ## Citation
 
